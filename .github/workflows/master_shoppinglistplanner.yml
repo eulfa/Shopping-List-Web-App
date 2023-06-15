@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'shoppinglistplanner'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4DB0E89218F45A8A3F4994E4981ED3A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF6A286088114474BC0F4E21C8F39EDD }}
           package: .
